@@ -1,0 +1,6 @@
+ledStatus.c:10:6:red1	16	static
+ledStatus.c:15:6:green1	16	static
+ledStatus.c:19:6:yellow1	16	static
+ledStatus.c:23:6:red2	16	static
+ledStatus.c:27:6:green2	16	static
+ledStatus.c:31:6:yellow2	16	static
